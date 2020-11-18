@@ -1,0 +1,13 @@
+Variable: Es una forma que se usa para almacenar algo en un lugar para despues ser usado. Ejemplo: Una alcancia, al princio está vacia, pero con el correr del tiempo le vamos asignando valores (Dinero). Poco a poco ese valor va cambiando.
+
+String: Son datos del tipo texto, se puede identificar cuando se definen al estar entre comillas (Simples o Dobles).
+
+Funciones: Es una forma de agrupar codigo o instrucciones que luego podemos ejecutar tantas veces queramos.
+
+Argumentos en una Función: Son variables o datos que declaro en una funcion y se van a invocar solo cuando ejecutemos o llamemos a una funcion.
+
+Return: se utiliza para retornar un resultado en una funcion.
+
+If: es un control de flujo, con esto podemos controlar los datos, comparando valores y dependiendo del resultado condicionarlos por diferentes caminos.
+
+Booleanos: Estos valores los utilizamos cuando al hacer un control de flujo el resultado devuelve verdader o falso, dependiendo de ambos podremos darle instrucciones diferentes.
