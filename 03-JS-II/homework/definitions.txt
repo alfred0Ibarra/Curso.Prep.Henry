@@ -1,0 +1,9 @@
+For: Es un bucle que podemos utilizar para realizar evaluaciones repetitivas devolviendo así un resultado, esta puede detenerse despues de cierto tiempo.
+
+And, Or y Not: Son operadores logicos que nos sirven para evaluar 2 o mas expresiones, si estas se cumplen el retorno será verdadero.
+
+And: se escribe && y evalua varias expresiones, si todas las expresiones son verdaderas entonces devuelve TRUE, caso contrario devolverá FALSE.
+
+Or: Se escribe con || y evalua varias expresiones, si al menos una es verdadera entonces devolverá TRUE. Caso contrario si todas las expresiones son falsas entonces devuelve FALSE.
+
+Not: Se escribe con ! antepuesto de la igualdad (!===), devuelve el resultado de un Booleano contrario al resultado original. if( 1 + 1 !==5) el resultado será TRUE. 
